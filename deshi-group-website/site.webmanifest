@@ -1,0 +1,16 @@
+{
+  "name": "Deshi Group",
+  "short_name": "Deshi Group",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8FA",
+  "theme_color": "#0B1F33",
+  "icons": [
+    {
+      "src": "images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
